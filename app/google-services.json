@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1026081732311",
+    "firebase_url": "https://tannaqi2-d4f69.firebaseio.com",
+    "project_id": "tannaqi2-d4f69",
+    "storage_bucket": "tannaqi2-d4f69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1026081732311:android:e4a331b49c774b7f",
+        "android_client_info": {
+          "package_name": "com.tannaqi.alhalim.tannaqi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1026081732311-f75r6t12uqbqc4hn36e3hi3oaif2dj7v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tannaqi.alhalim.tannaqi",
+            "certificate_hash": "314aa9677390a08a6c151bf5f56d7c12bc090a69"
+          }
+        },
+        {
+          "client_id": "1026081732311-48iq9gj1dt2nvhksqdbqqcqqcu2mh9d4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCktCw9YBUDY2qDdObFHuwJGLStIKhPVvc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1026081732311-48iq9gj1dt2nvhksqdbqqcqqcu2mh9d4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
